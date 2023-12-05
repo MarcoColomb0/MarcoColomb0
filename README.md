@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
-<h3 align="center">I am a systems administration and security engineering student currently based in Milan, Italy.</h3>
+<h3 align="center">System administrator.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcocolomb0&label=Profile%20views&color=0e75b6&style=flat" alt="marcocolomb0" /> </p>
 
